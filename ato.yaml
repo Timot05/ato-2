@@ -1,6 +1,6 @@
-ato-version: ^0.1.8
+ato-version: ^0.2.0
 builds:
   default:
     entry: elec/src/ato-2.ato:Ato2
 dependencies:
-- generics@faf581ce6c49d63bcb4d5000055c49442bb11341
+- generics@387848449026569e670bad2a8d8777395bb36c60
