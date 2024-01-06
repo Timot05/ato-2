@@ -3,4 +3,4 @@ builds:
   default:
     entry: elec/src/ato-2.ato:Ato2
 dependencies:
-- generics
+- generics@faf581ce6c49d63bcb4d5000055c49442bb11341
